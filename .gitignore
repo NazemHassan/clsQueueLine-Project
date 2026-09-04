@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+
+# Build/debug files
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.idb
+*.ipch
+*.lastbuildstate
+*.log
